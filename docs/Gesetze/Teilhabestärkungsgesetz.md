@@ -19,5 +19,6 @@ Quellen:
 
  + [FAQ](https://www.bmas.de/DE/Soziales/Teilhabe-und-Inklusion/Politik-fuer-Menschen-mit-Behinderungen/Fragen-und-Antworten-Assistenzhunde/faq-assistenzhunde.html)
  + [Gesetz](https://www.gesetze-im-internet.de/bgg/)
+ + [Zusammenfassung-Zutrittsregelung](https://www.assistenzhunde.nrw/Rechtliches/#:~:text=Die%C2%A0Mitnahme%20eines,mit%20Assistenzhund%20ausschlie%C3%9Fen.)
 
 Zuletzt geprüft: `12.08.2021`
