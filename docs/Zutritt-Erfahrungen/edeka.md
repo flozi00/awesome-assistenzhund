@@ -2,7 +2,7 @@
 layout: default
 title: Edeka
 nav_order: 3
-parent: Zutritt-in-Ketten
+parent: Zutritt-Erfahrungsberichte
 ---
 
 Grundlegende Aussage: 
