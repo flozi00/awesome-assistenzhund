@@ -5,11 +5,17 @@ nav_order: 3
 parent: Zutritt-in-Ketten
 ---
 
-Erfahrung: 
+Grundlegende Aussage: 
 
-> In den meisten Fillialen hat der Zutritt ohne Probleme geklappt.
+> Um Missverständnisse zu vermeiden wird darum gebeten Mitarbeiter im
+> Markt kurz darauf hinzuweisen, dass es sich um einen Führ- bzw.
+> Assistenzhund handelt. Außerdem wird darum gebeten entsprechende
+> Bescheinigungen bereitzuhalten. Die Entscheidung hinsichtlich des
+> Zutritts liegt stets bei den selbstständigen Kaufleuten.
 
+Quelle:
+[https://verbund.edeka/verantwortung/handlungsfelder/gesellschaft/inklusion/](https://verbund.edeka/verantwortung/handlungsfelder/gesellschaft/inklusion/)
 
-Berichtet am: `12.08.2021`
+Link zur Aussage: [https://verbund.edeka/verantwortung/handlungsfelder/gesellschaft/inklusion/#:~:text=Es%20ist%20stets,anbieten%20und%20erm%C3%B6glichen](https://verbund.edeka/verantwortung/handlungsfelder/gesellschaft/inklusion/#:~:text=Es%20ist%20stets,anbieten%20und%20erm%C3%B6glichen)
 
-Berichtet von: [@flozi00](https://github.com/flozi00)
+Zuletzt geprüft: `12.08.2021`
