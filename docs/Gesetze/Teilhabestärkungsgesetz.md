@@ -7,7 +7,7 @@ parent: Gesetze
 
 Grundlegende Regelungen:
 
-1.  Zutritt
+1.  Zutritt (Duldungspflicht)
 2.  Definition
 3.  Ausbildung
 4.  Prüfunf
