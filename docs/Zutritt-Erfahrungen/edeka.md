@@ -2,7 +2,7 @@
 layout: default
 title: Edeka
 nav_order: 3
-parent: Handel
+parent: Zutritt-in-Ketten
 ---
 
 Grundlegende Aussage: 

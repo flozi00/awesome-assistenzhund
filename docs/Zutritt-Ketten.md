@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Handel
+title: Zutritt-in-Ketten
 nav_order: 3
 has_children: true
 ---
