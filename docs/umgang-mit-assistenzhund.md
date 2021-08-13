@@ -40,6 +40,7 @@ title: Umgang mit Assistenzhunden
 
 ### Weitere Quellen
 
-[Pfotenpiloten](https://www.pfotenpiloten.org/https:/)
 
-[Assistenzhunde NRW](https://www.assistenzhunde.nrw/https:/)
+[Pfotenpiloten](https://www.pfotenpiloten.org/)
+
+[Assistenzhunde NRW](https://www.assistenzhunde.nrw/)
