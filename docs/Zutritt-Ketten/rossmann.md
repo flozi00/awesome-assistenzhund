@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Rossmann
-nav_order: 3
 parent: Zutritt-in-Ketten
 ---
 

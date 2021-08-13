@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Teilhabestärkungsgesetz
-nav_order: 3
 parent: Gesetze
 ---
 

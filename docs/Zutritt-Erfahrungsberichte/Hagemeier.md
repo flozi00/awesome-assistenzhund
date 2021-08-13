@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Hagemeier
-nav_order: 3
 parent: Zutritt-Erfahrungsberichte
 ---
 

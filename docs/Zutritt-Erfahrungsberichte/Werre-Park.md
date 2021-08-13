@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Werre Park
-nav_order: 3
 parent: Zutritt-Erfahrungsberichte
 ---
 
