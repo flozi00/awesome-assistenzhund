@@ -25,6 +25,7 @@ title: Umgang mit Assistenzhunden
 
   * Nein, Assistenzhundearbeit ist keine Tierquälerei
     Sie werden positiv trainiert und gut auf ihre Aufgaben vorbereitet, damit sie keinen Stress bei der Arbeit haben.
+    Die Hunde tun ihre Arbeit gerne und werden von ihren Herrchen sehr gut behandelt und verwöhnt.
 * **Warum darf ich den Hund nicht anfassen ?**
 
   * Der Assistenzhund soll sich auf seine Arbeit konzentrieren können und nicht in die Erwartungshaltung gehen von Fremden Personen gestreichelt zu werden. Um diesen Stressfaktor der Erwartungshaltung, von fremden Personen angefasst zu werden zu vermeiden streicheln sie bitte nicht ohne Erlaubnis den Assistenzhund.
@@ -40,8 +41,6 @@ title: Umgang mit Assistenzhunden
     >
 
     [Quelle](https://www.bmas.de/DE/Soziales/Teilhabe-und-Inklusion/Politik-fuer-Menschen-mit-Behinderungen/Fragen-und-Antworten-Assistenzhunde/faq-assistenzhunde.html)
-
-
 
 [Info-Karte zum selber drucken](https://www.canva.com/design/DAEm-lCv7zo/WNt4UWirpg0qfGkXMSTEKw/view?utm_content=DAEm-lCv7zo&utm_campaign=designshare&utm_medium=link&utm_source=sharebuttonhttps:/)
 
