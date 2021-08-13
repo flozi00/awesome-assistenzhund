@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Edeka
-parent: Zutritt-in-Ketten
+parent: Zutritt-Statements
 ---
 
 Grundlegende Aussage: 

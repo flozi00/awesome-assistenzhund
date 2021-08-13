@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Zutritt-in-Ketten
+title: Zutritt-Statements
 has_children: true
 ---

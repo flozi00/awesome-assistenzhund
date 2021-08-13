@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rossmann
-parent: Zutritt-in-Ketten
+parent: Zutritt-Statements
 ---
 
 Grundlegende Aussage: 
