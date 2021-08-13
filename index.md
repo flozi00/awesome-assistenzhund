@@ -9,7 +9,7 @@ permalink: /
 # Focus on living, don't care about access permissions
 {: .fs-9 }
 
-Suche nicht lange wo du mit deinem Assistenzhund hin darfst, hier findest du eine Liste von Orten, Gesetzen und vieles mehr
+Suche nicht lange wo du mit deinem Assistenzhund wilkommen bist, hier findest du eine Liste von Orten, Gesetzen und vieles mehr
 {: .fs-6 .fw-300 }
 
 ---
