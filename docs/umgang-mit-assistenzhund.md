@@ -35,4 +35,11 @@ title: Umgang mit Assistenzhunden
     Außerhalb der Arbeit darf der Hund natürlich spielen.
 
 
-[Info Karte zum selber drucken](https://www.canva.com/design/DAEm-lCv7zo/WNt4UWirpg0qfGkXMSTEKw/view?utm_content=DAEm-lCv7zo&utm_campaign=designshare&utm_medium=link&utm_source=sharebuttonhttps:/)
+[Info-Karte zum selber drucken](https://www.canva.com/design/DAEm-lCv7zo/WNt4UWirpg0qfGkXMSTEKw/view?utm_content=DAEm-lCv7zo&utm_campaign=designshare&utm_medium=link&utm_source=sharebuttonhttps:/)
+
+
+### Weitere Quellen
+
+[Pfotenpiloten](https://www.pfotenpiloten.org/https:/)
+
+[Assistenzhunde NRW](https://www.assistenzhunde.nrw/https:/)
