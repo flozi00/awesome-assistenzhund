@@ -4,18 +4,20 @@ title: Umgang mit Assistenzhunden
 ---
 ## Dont's
 
-* [ ] Hund Ansprechen / anlocken
+* [ ] Hund ansprechen / anlocken
 * [ ] Füttern
-* [ ] Treten
 * [ ] Anfassen oder streicheln
 * [ ] Bedrängen
 * [ ] Erschrecken / Provozieren
+* [ ] Hunde hinlaufen lassen
 
 ## Do's
 
 * [X] Bei Fragen Hundeführer ansprechen
-* [X] Ruhig verhalten (nicht versuchen zu erschrecken)
-* [X] Abstand halten (nicht extra bedrängen)
+* [X] Hunde im Dienst ignorieren
+* [X] Ruhig verhalten
+* [X] Abstand halten
+* [X] Eigene Hunde bei sich behalten
 
 
 ## FAQ's
