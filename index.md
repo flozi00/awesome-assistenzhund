@@ -8,7 +8,7 @@ permalink: /
 
 {: .fs-9 }
 
-Suche nicht lange wo du mit deinem Assistenzhund wilkommen bist, hier findest du eine Liste von Orten, Gesetzen und vieles mehr
+Suche nicht lange wo du mit deinem Assistenzhund willkommen bist, hier findest du eine Liste von Orten, Gesetzen und vieles mehr
 {: .fs-6 .fw-300 }
 
 ---
