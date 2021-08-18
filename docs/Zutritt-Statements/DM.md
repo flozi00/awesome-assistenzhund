@@ -10,6 +10,6 @@ Grundlegende Aussage:
 > Blindenhunde, Assistenzhunde sind hiervon ausgenommen.
 
 Quelle:
-Anfrage beim Kundenservice
+[Anfrage beim Kundenservice](https://drive.google.com/folderview?id=1EVNhjgCPePGamHkv1F18MeFOLTLBQQXo)
 
 Zuletzt geprüft: `18.08.2021`
